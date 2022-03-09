@@ -3,11 +3,10 @@
 - 🔭 Hoje em dia estudante de linguagem C
 - 🌱 Gosto muito de aprender programação.
 
-<div>
+<div align="center">
   <a href="https://github.com/H3nryque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3nryque&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryque&layout=compact&langs_count=7&theme=dark"/>
-</div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
@@ -31,7 +30,7 @@
 <!-- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 <!--  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
  <a href="https://www.linkedin.com/in/henrique-oliveira-17b59b19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
   
   ![Snake animation](https://github.com/H3nryque/H3nryque/blob/output/github-contribution-grid-snake.svg) 
+  
 </div>
