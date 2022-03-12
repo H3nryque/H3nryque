@@ -1,10 +1,8 @@
 ### Olá sou o H3nryque 👋
-<div align="center">
-  <a href="https://github.com/H3nryque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3nryque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryque&hide=javascript,html)](https://github.com/H3nryque/github-readme-stats)
-    </a>
-</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3nryque&count_private=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryque&hide=javascript,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
  <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
