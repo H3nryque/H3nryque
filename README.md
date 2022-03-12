@@ -1,7 +1,7 @@
 ### Olá sou o H3nryque 👋
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3nryque&count_private=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryque&hide=javascript,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![H3nryque's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3nryque&count_private=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryque&hide=javascript,html&theme=tokyonight)](https://github.com/H3nryque/github-readme-stats)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
