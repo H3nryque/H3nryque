@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/H3nryque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3nryque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryque&layout=compact&langs_count=7&theme=dark"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nryque&hide=javascript,html)](https://github.com/H3nryque/github-readme-stats)
     </a>
 </div>
 <div style="display: inline_block"><br>
