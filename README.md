@@ -19,9 +19,6 @@
   <a><h3>Sistemas Operativos Favoritos</h3></a>
  <a href="https://linuxmint.com/" target="_blank"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" target="_blank"></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
-
-  
-
   
   ![Snake animation](https://github.com/H3nryque/H3nryque/blob/output/github-contribution-grid-snake.svg) 
   
